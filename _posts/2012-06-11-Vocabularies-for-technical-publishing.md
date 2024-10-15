@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vocabularies For Technical Publishing"
+title: "Vocabularies for Technical Publishing"
 date: 2012-06-11
 ---
 
