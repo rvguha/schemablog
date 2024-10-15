@@ -1,8 +1,5 @@
 title: Schema.org Blog
 description: Schema.org Blogposts
-author:
-  name: Schema.org team
-  email: rvguha@gmail.com
 baseurl: "schemablog" # the subpath of your site, e.g., /blog
 url: "https://rvguha.github.io" # the base hostname & protocol for your site
 
