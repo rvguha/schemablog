@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Workshop Announcement"
+title: "Workshop Announcement "
 date: 2011-07-20
 ---
 
