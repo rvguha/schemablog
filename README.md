@@ -1,2 +1,1 @@
 # schemablog
-Schema.org blog
